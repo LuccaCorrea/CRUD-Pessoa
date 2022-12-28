@@ -1,0 +1,231 @@
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.exe
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.deps.json
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.runtimeconfig.json
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.AssemblyReference.cache
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.GenerateResource.cache
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfoInputs.cache
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfo.cs
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CoreCompileInputs.cache
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\refint\CRUD_Pessoa.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.genruntimeconfig.cache
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\ref\CRUD_Pessoa.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.PessoaDataGrid.resources
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\New\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CopyComplete
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.PessoaDataGrid.resources
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.GenerateResource.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CopyComplete
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\refint\CRUD_Pessoa.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\ref\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.AssemblyReference.cache
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.PessoaDataGrid.resources
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.GenerateResource.cache
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfoInputs.cache
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfo.cs
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CoreCompileInputs.cache
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\refint\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.exe
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.deps.json
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.runtimeconfig.json
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CopyComplete
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.genruntimeconfig.cache
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\ref\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.Dialogs.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.Streaming.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Schema.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Streaming.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Http.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Choice.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Ajuda Luccao\Novo 2\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.exe
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.deps.json
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.runtimeconfig.json
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.pdb
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Schema.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Streaming.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.PessoaDataGrid.resources
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfo.cs
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CopyComplete
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\refint\CRUD_Pessoa.dll
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.pdb
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.genruntimeconfig.cache
+C:\Users\USER\Desktop\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\ref\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.exe
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.deps.json
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.runtimeconfig.json
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Builder.Dialogs.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Connector.Streaming.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Schema.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Bot.Streaming.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Http.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Definitions.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Choice.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.DateTime.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.Number.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Microsoft.Rest.ClientRuntime.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.AssemblyReference.cache
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.PessoaDataGrid.resources
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.GenerateResource.cache
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfoInputs.cache
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.AssemblyInfo.cs
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CoreCompileInputs.cache
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.csproj.CopyComplete
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\refint\CRUD_Pessoa.dll
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.pdb
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\CRUD_Pessoa.genruntimeconfig.cache
+E:\Ajuda Luccao\Novo 3\CRUD_Pessoa\CRUD_Pessoa\obj\Debug\net6.0-windows\ref\CRUD_Pessoa.dll
